@@ -1,4 +1,9 @@
 ## Oi! Eu sou o Marcos Gomes 
+
+Desenvolvedor entusiasmado com o mundo da tecnologia e tudo o que está ao seu redor. Procuro sempre aprender coisas novas e agregar conhecimento para a minha carreira profissional.
+
+No momento meu foco é em Desenvolvimento Web e estou me aprofundando cada dia mais para me especializar na área, principalmente utilizando React e Spring.
+
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosARGomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
