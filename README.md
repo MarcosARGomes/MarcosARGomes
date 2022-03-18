@@ -1,4 +1,4 @@
-## Oi! Eu sou o Marcos Gomes 
+## Oi! Sou o Marcos Gomes 
 
 Desenvolvedor entusiasmado com o mundo da tecnologia e tudo o que está ao seu redor. Procuro sempre aprender coisas novas e agregar conhecimento para a minha carreira profissional.
 
